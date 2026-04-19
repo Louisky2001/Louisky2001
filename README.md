@@ -1,1 +1,43 @@
-Cybersecurity Analyst specializing in SOC operations, vulnerability assessment, endpoint security, and infrastructure support across enterprise and field environments with over 12+ year working experience as an IT support Specialist. I have deployed SIEM solutions, conducted vulnerability assessments, and implemented endpoint security controls to improve visibility and reduce operational risk. Beyond traditional security operations, I build AI-driven security systems, including a FastAPI-based middleware that detects prompt injection, enforces rate limits, masks sensitive data, and logs suspicious activity in real time. I focus on delivering practical, measurable security outcomes by combining security operations, infrastructure understanding, and real-world execution.
+# Louis Okperiruisi Portfolio
+
+Live portfolio website for Louis A. Okperiruisi, showcasing cybersecurity projects, SOC labs, certifications, technical experience, and AI security work.
+
+## Live Demo
+[View Portfolio](https://louisky.vercel.app)
+
+## Overview
+This portfolio highlights:
+- Cybersecurity and SOC-focused experience
+- SIEM and vulnerability assessment labs
+- AI security middleware project
+- Certifications and technical skills
+- Infrastructure and IT support experience
+
+## Built With
+- Next.js
+- React
+- Tailwind CSS
+- Framer Motion
+- Vercel
+
+## Featured Sections
+- Professional summary
+- Projects portfolio
+- Cybersecurity labs
+- Experience timeline
+- Certifications showcase
+- Contact section
+
+## Featured Project
+### AI Security Middleware
+A FastAPI-based security middleware designed to protect AI systems from abuse through:
+- Prompt injection detection
+- Rate limiting
+- PII masking
+- JWT authentication
+- Real-time logging and monitoring
+
+## Run Locally
+```bash
+npm install
+npm run dev

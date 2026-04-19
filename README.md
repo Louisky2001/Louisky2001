@@ -1,10 +1,3 @@
-
-### 2. Tighten your profile README
-Your current profile README is good, but it’s a bit dense and reads more like a paragraph than a strong GitHub profile intro. :contentReference[oaicite:6]{index=6}
-
-Use this for `Louisky2001/README.md`:
-
-```md
 # Hi, I'm Louis Okperiruisi
 
 Cybersecurity Analyst focused on SOC operations, vulnerability assessment, endpoint security, and practical AI security.
@@ -40,6 +33,11 @@ Cybersecurity Analyst focused on SOC operations, vulnerability assessment, endpo
 - ISO/IEC 27001
 - CompTIA SecAI+
 
+- ## Run Locally
+```bash
+npm install
+npm run dev
+
 ## Connect
 - [LinkedIn](https://linkedin.com/in/louis-okperiruisi)
-- [Portfolio](https://my-portfolio-alpha-seven-35.vercel.app)
+- [Portfolio](https://louisky.vercel.app)

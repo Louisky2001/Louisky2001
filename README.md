@@ -33,10 +33,11 @@ Cybersecurity Analyst focused on SOC operations, vulnerability assessment, endpo
 - ISO/IEC 27001
 - CompTIA SecAI+
 
-- ## Run Locally
+## Run Locally
 ```bash
 npm install
 npm run dev
+
 
 ## Connect
 - [LinkedIn](https://linkedin.com/in/louis-okperiruisi)

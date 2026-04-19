@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Louis Okperiruisi
 
 Cybersecurity Analyst focused on SOC operations, vulnerability assessment, endpoint security, and practical AI security.

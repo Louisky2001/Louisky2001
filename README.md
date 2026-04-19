@@ -1,43 +1,45 @@
-# Louis Okperiruisi Portfolio
 
-Live portfolio website for Louis A. Okperiruisi, showcasing cybersecurity projects, SOC labs, certifications, technical experience, and AI security work.
+### 2. Tighten your profile README
+Your current profile README is good, but it’s a bit dense and reads more like a paragraph than a strong GitHub profile intro. :contentReference[oaicite:6]{index=6}
 
-## Live Demo
-[View Portfolio](https://louisky.vercel.app)
+Use this for `Louisky2001/README.md`:
 
-## Overview
-This portfolio highlights:
-- Cybersecurity and SOC-focused experience
-- SIEM and vulnerability assessment labs
-- AI security middleware project
-- Certifications and technical skills
-- Infrastructure and IT support experience
+```md
+# Hi, I'm Louis Okperiruisi
 
-## Built With
-- Next.js
-- React
-- Tailwind CSS
-- Framer Motion
-- Vercel
+Cybersecurity Analyst focused on SOC operations, vulnerability assessment, endpoint security, and practical AI security.
 
-## Featured Sections
-- Professional summary
-- Projects portfolio
-- Cybersecurity labs
-- Experience timeline
-- Certifications showcase
-- Contact section
+## What I Work On
+- SIEM monitoring and threat detection
+- Vulnerability assessment with Nessus, Qualys, and OWASP ZAP
+- Endpoint security and patch management
+- AI security systems using FastAPI
+- Infrastructure and enterprise IT support
 
-## Featured Project
-### AI Security Middleware
-A FastAPI-based security middleware designed to protect AI systems from abuse through:
-- Prompt injection detection
-- Rate limiting
-- PII masking
-- JWT authentication
-- Real-time logging and monitoring
+## Featured Work
+- [Portfolio Website](https://my-portfolio-alpha-seven-35.vercel.app)
+- AI Security Middleware
+- Wazuh SIEM Lab
+- Google Cloud Security Capstone
+- Phishing Email Investigation & IOC Analysis
 
-## Run Locally
-```bash
-npm install
-npm run dev
+## Tech Stack
+- Python
+- FastAPI
+- Wazuh
+- Nessus
+- Qualys
+- OWASP ZAP
+- Google Cloud
+- OPSWAT MetaDefender
+
+## Certifications
+- ISC2 Certified in Cybersecurity
+- Cisco CyberOps Associate
+- Google Cloud Cybersecurity
+- ISO/IEC 27001
+- CompTIA SecAI+
+
+## Connect
+- [LinkedIn](https://linkedin.com/in/louis-okperiruisi)
+- [Portfolio](https://my-portfolio-alpha-seven-35.vercel.app)

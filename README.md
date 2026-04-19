@@ -1,3 +1,4 @@
+```md
 # Hi, I'm Louis Okperiruisi
 
 Cybersecurity Analyst focused on SOC operations, vulnerability assessment, endpoint security, and practical AI security.
@@ -33,12 +34,6 @@ Cybersecurity Analyst focused on SOC operations, vulnerability assessment, endpo
 - ISO/IEC 27001
 - CompTIA SecAI+
 
-## Run Locally
-```bash
-npm install
-npm run dev
-
-
 ## Connect
 - [LinkedIn](https://linkedin.com/in/louis-okperiruisi)
-- [Portfolio](https://louisky.vercel.app)
+- [Portfolio](https://my-portfolio-alpha-seven-35.vercel.app)
